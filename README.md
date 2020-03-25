@@ -1,2 +1,1 @@
-# shop
-#java商城+微信公众号
+# shop:java商城+微信公众号
